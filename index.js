@@ -23,7 +23,7 @@ number *= 10
 number /= 5
 
 
-console.log(number++)
+console.log(number)
 
 
 var number = 10
