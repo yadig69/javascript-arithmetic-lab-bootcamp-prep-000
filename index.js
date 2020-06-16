@@ -53,8 +53,8 @@ divideBy3()
 
 console.log(number)
 
-parseInt('2', 10)
-console.log(parseInt)
+console.log(parseInt('2', 10))
+
 
 parseInt('nonsense', 10)
 
