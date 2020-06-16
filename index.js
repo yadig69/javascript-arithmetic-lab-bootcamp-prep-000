@@ -13,7 +13,7 @@ number--
 
 number
 
---number 
+--number
 
 ++number
 
@@ -56,6 +56,6 @@ console.log(number)
 console.log(parseInt('2', 10))
 
 
-parseInt('nonsense', 10)
+console.log(parseInt('nonsense', 10))
 
-parseInt('2.2222', 10)
+console.log(parseInt('2.2222', 10))
