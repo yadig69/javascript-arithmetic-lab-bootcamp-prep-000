@@ -4,7 +4,7 @@ number++
 
 number
 
-number-- 
+number--
 
 number
 
@@ -13,4 +13,4 @@ number -= 2
 number *= 10
 number /= 5
 
-console.log(number)
+console.log(number++)
