@@ -78,7 +78,7 @@ function divide(a,b){
   return a / b;
 }
 
-function inc(n){
+function increment(n){
   return n += 1;
 }
 
