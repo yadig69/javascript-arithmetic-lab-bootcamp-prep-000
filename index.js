@@ -59,3 +59,5 @@ console.log(parseInt('2', 10))
 console.log(parseInt('nonsense', 10))
 
 console.log(parseInt('2.2222', 10))
+
+console.log(parseFloat('80.123999'))
